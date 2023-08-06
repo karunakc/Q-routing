@@ -7,5 +7,7 @@ Run the q-routing.ipynb notebook.
 Contributors:
 
 [karuna](https://github.com/karunakc/)
+
 [jagriti](https://github.com/karankalla)
+
 [karan](https://github.com/karankalla)
